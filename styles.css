@@ -51,7 +51,7 @@ body {
 }
 
 .post-container:nth-child(even) {
-  background-color: lightgray;
+  background-color: #CCC;
 }
 
 #footer {
